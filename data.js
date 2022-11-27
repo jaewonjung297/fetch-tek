@@ -46,7 +46,7 @@ const data = {
             category: 'phones',
             image: '/images/Pixel_6_Pro.webp',
             price: 1099.99,
-            countInStock: 12,
+            countInStock: 0,
             brand: 'Apple',
             rating: 4.8,
             numReviews: 10,
