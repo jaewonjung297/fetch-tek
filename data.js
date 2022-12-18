@@ -49,10 +49,22 @@ const data = {
             image: '/images/Pixel_6_Pro.webp',
             price: 1099.99,
             countInStock: 0,
-            brand: 'Apple',
+            brand: 'Google',
             rating: 4.8,
             numReviews: 10,
             description: 'The iPhone 14 Pro 5G Dual SIM comes with a 6.1 inch touchscreen with 460PPI. It packs a 48-megapixel pro camera with main ultra wide system and a 12-megapixel selfie-camera with TrueDepth with autofocus. This is all powered by the Apple A16 Bionic (4 nm) chipset and 6GB of RAM.'
+        },
+        {
+            name: 'iPhone 13',
+            slug: 'iphone-13',
+            category: 'phones',
+            image: '/images/iphone_13.webp',
+            price: 579.99,
+            countInStock: 15,
+            brand: 'Apple',
+            rating: 4.3,
+            numReviews: 10,
+            description: "The iPhone 13 and iPhone 13 mini iterate upon the successful iPhone 12 with new cameras and longer battery life. The notch has been reduced in size, and the rear camera module now sits at a diagonal. In addition, the A15 processor brings more speed and efficiency to every task."
         }
     ],
     users: [
